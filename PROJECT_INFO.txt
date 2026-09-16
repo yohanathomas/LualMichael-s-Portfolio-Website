@@ -1,0 +1,50 @@
+Lual Michael Aketch — Basketball Portfolio
+==========================================
+
+This folder contains the complete source code, images, and videos for
+Lual Michael Aketch's basketball portfolio website.
+
+WHAT'S INSIDE
+-------------
+  src/routes/index.tsx      — The main page (hero, stats, bio, story,
+                               timeline, gallery, highlights, game tape,
+                               contact, footer)
+  src/styles.css            — Colors, fonts, glass effects, design tokens
+  src/routes/__root.tsx     — Fonts and root layout
+  src/components/            — Shader gradient backdrop, South Sudan flag
+  src/assets/               — All images and videos (downloaded from CDN)
+  package.json              — Dependencies and scripts
+  vite.config.ts            — Build configuration
+  tsconfig.json             — TypeScript configuration
+
+HOW TO RUN IT
+-------------
+  1. Install Node.js 18+ and Bun (https://bun.sh)
+  2. Open a terminal in this folder
+  3. Run:  bun install
+  4. Run:  bun run dev
+  5. Open http://localhost:8080 in your browser
+
+DESIGN
+------
+  Theme:    Premium Editorial — chalk background, deep navy text,
+            vintage grass-green accent
+  Fonts:    Big Shoulders Display (headings), Cormorant Garamond (serif),
+            Inter (body), JetBrains Mono (ticker), Architects Daughter (quote),
+            Comic Sans MS (hero name only)
+  Effects:  Animated WebGL shader gradient backdrop, frosted glass panels
+
+DATA
+----
+  Name:        Lual Michael Aketch
+  Date of birth: 24 July 2011
+  Number:      5
+  Height:      6'7" (2.01 m)
+  Weight:      71 kg (156 lb)
+  Origin:      Bor, South Sudan
+  Academy:     Dankind Academy
+  Stats:       500 points, 25.0 PPG, 5 APG, 3 three-pointers/game,
+               ~20 unofficial games (2026)
+
+  Contact email (hello@lualaketch.com) and handle (@lualaketch)
+  are placeholders — replace them with the real ones before sharing.
